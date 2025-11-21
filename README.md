@@ -129,22 +129,22 @@ src
   "email": "ana@exemplo.com",
   "areaAtuacao": "Tecnologia",
   "nivelCarreira": "Junior"
-} |
-| **Criar Trilha** | `POST` | `/trilhas` | 
+}``` |
+| **Criar Trilha** | `POST` | `/trilhas` | ```json 
 {
   "nome": "Fundamentos de IA",
   "descricao": "Trilha voltada ao entendimento prático de IA.",
   "nivel": "Intermediario",
   "cargaHoraria": 40,
   "focoPrincipal": "Inteligência Artificial"
-} |
-| **Criar Competência** | `POST` | `/competencias` | 
+}``` |
+| **Criar Competência** | `POST` | `/competencias` | ```json 
 {
   "nome": "Machine Learning",
   "categoria": "IA",
   "descricao": "Capacidade de criar e treinar modelos inteligentes."
-} |
-| **Criar Matrícula** | `POST` | `/matriculas` | 
+}``` |
+| **Criar Matrícula** | `POST` | `/matriculas` | ```json
 {
   "usuarioId": 1,
   "trilhaId": 1,
