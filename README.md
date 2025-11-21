@@ -129,22 +129,22 @@ src
   "email": "ana@exemplo.com",
   "areaAtuacao": "Tecnologia",
   "nivelCarreira": "Junior"
-}``` |
-| **Criar Trilha** | `POST` | `/trilhas` | ```json
+} |
+| **Criar Trilha** | `POST` | `/trilhas` | 
 {
   "nome": "Fundamentos de IA",
   "descricao": "Trilha voltada ao entendimento prático de IA.",
   "nivel": "Intermediario",
   "cargaHoraria": 40,
   "focoPrincipal": "Inteligência Artificial"
-}``` |
-| **Criar Competência** | `POST` | `/competencias` | ```json
+} |
+| **Criar Competência** | `POST` | `/competencias` | 
 {
   "nome": "Machine Learning",
   "categoria": "IA",
   "descricao": "Capacidade de criar e treinar modelos inteligentes."
-}``` |
-| **Criar Matrícula** | `POST` | `/matriculas` | ```json
+} |
+| **Criar Matrícula** | `POST` | `/matriculas` | 
 {
   "usuarioId": 1,
   "trilhaId": 1,
@@ -200,4 +200,5 @@ A solução atende diretamente aos **Objetivos de Desenvolvimento Sustentável**
 * **ODS 10** – Redução das Desigualdades
 
 A plataforma fortalece o **desenvolvimento de talentos**, traz oportunidades de **requalificação** e apoia a **inclusão digital**.
+
 
