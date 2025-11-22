@@ -199,6 +199,15 @@ A solução atende diretamente aos **Objetivos de Desenvolvimento Sustentável**
 * **ODS 9** – Indústria, Inovação e Infraestrutura
 * **ODS 10** – Redução das Desigualdades
 
+---
+
 A plataforma fortalece o **desenvolvimento de talentos**, traz oportunidades de **requalificação** e apoia a **inclusão digital**.
 
+---
+
+### Participantes
+
+* Giovanne Charelli - RM556223
+* Maria Clara Oliveira - RM557478
+* Vinicius Matareli - RM555200
 
